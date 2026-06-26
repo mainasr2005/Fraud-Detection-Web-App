@@ -6,7 +6,7 @@ The project uses data preprocessing, class imbalance handling, and ensemble lear
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Interactive Streamlit Web Application
 - Real-Time Fraud Prediction
