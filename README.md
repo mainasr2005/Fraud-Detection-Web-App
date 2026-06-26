@@ -63,20 +63,7 @@ The project uses data preprocessing, class imbalance handling, and ensemble lear
 - Streamlit Web Application
 - Cloudflare Tunnel Deployment
 
----
 
-## 📁 Project Structure
-
-```text
-Fraud-Detection-Web-App/
-│
-├── app.py
-├── fraud_model.pkl
-├── fraud.csv
-├── requirements.txt
-├── README.md
-└── screenshots/
-```
 
 ---
 
